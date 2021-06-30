@@ -14,3 +14,4 @@ print("Nice to meet you!")
 
 [references](references)
 
+![finance](finance.png.jpg)
